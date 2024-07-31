@@ -20,3 +20,14 @@ My main goal is to create something useful for people, so that they feel more co
 - CSS
 - JS 
 - GIT
+
+## Code Example
+Task: Print to the console all numbers in the range from 10 to 1000 whose first digit is even.
+```
+for (let i=10; i<=1000; i++) {
+    let str = i.toString()
+    if (str[0] % 2 === 0) {
+        console.log(i)
+    }
+}
+```
