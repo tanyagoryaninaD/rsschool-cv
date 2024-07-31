@@ -14,3 +14,9 @@
 
 My main goal is to create something useful for people, so that they feel more comfortable in something. I am hardworking in what I like. I can find or create quick ways to solve problems. I always strive to learn everything. Managed a large team.
 
+## Skills
+
+- HTML
+- CSS
+- JS 
+- GIT
