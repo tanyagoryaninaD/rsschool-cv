@@ -8,3 +8,9 @@
 - Phone: +375 33 608-40-07
 - Email: [tanyagoryanina.dev@gmail.com](mailto:tanyagoryanina.dev@gmail.com)
 - GitHub: [tanyagoryaninaD](https://github.com/tanyagoryaninaD)
+
+
+## About Me
+
+My main goal is to create something useful for people, so that they feel more comfortable in something. I am hardworking in what I like. I can find or create quick ways to solve problems. I always strive to learn everything. Managed a large team.
+
