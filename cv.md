@@ -23,7 +23,7 @@ My main goal is to create something useful for people, so that they feel more co
 
 ## Code Example
 Task: Print to the console all numbers in the range from 10 to 1000 whose first digit is even.
-```
+``` java script
 for (let i=10; i<=1000; i++) {
     let str = i.toString()
     if (str[0] % 2 === 0) {
@@ -31,3 +31,10 @@ for (let i=10; i<=1000; i++) {
     }
 }
 ```
+
+## My projects
+
+- [Radio W-Wave](https://htmlpreview.github.io/?https://github.com/tanyagoryaninaD/Radio-W-Wave/blob/main/index.html)
+- [Hotel chain Logoona](https://htmlpreview.github.io/?https://github.com/tanyagoryaninaD/Hotel-chain-Logoona/blob/main/lagoona.html)
+- [Euclid design systems](https://rawcdn.githack.com/tanyagoryaninaD/Euclid-design-systems/312aeb4c6bec22ae65a883da76534da019a833ba/index.html)
+- [To Do List](https://rawcdn.githack.com/tanyagoryaninaD/To-Do-List/206eba88f1c1a1cc46650666dff7117b759d2f5e/index.html)
