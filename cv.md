@@ -4,10 +4,10 @@
 
 ## Contacts
 
-- Location: Minsk, Belarus
-- Phone: +375 33 608-40-07
-- Email: [tanyagoryanina.dev@gmail.com](mailto:tanyagoryanina.dev@gmail.com)
-- GitHub: [tanyagoryaninaD](https://github.com/tanyagoryaninaD)
+- **Location:** Minsk, Belarus
+- **Phone:** +375 33 608-40-07
+- **Email:** [tanyagoryanina.dev@gmail.com](mailto:tanyagoryanina.dev@gmail.com)
+- **GitHub:** [tanyagoryaninaD](https://github.com/tanyagoryaninaD)
 
 
 ## About Me
@@ -22,7 +22,7 @@ My main goal is to create something useful for people, so that they feel more co
 - GIT
 
 ## Code Example
-Task: Print to the console all numbers in the range from 10 to 1000 whose first digit is even.
+**Task:** Print to the console all numbers in the range from 10 to 1000 whose first digit is even.
 ``` js
 for (let i=10; i<=1000; i++) {
     let str = i.toString()
@@ -41,8 +41,13 @@ for (let i=10; i<=1000; i++) {
 
 ## Education
 
-- University: Belarusian Institute of Law, lawyer
-- Course: 
-  + Skillbox: Profession Frontend developer from scratch to PRO
-  + RS School: JavaScript / Front-end. Stage 0.
-- Self-study :book:
+- **University:** Belarusian Institute of Law, lawyer
+- **Course:** 
+  + Skillbox: Profession Frontend developer from scratch to PRO *(studying now)*
+  + RS School: JavaScript / Front-end. Stage 0. *(studying now)*
+- **Self-study** :book: *(always studying)*
+
+## Languages 
+
+- **Russian** :white_check_mark:
+- **English** A2 - Pre-Intermediate *(studying now)*
