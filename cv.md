@@ -8,7 +8,7 @@
 - **Phone:** +375 33 608-40-07
 - **Email:** [tanyagoryanina.dev@gmail.com](mailto:tanyagoryanina.dev@gmail.com)
 - **GitHub:** [tanyagoryaninaD](https://github.com/tanyagoryaninaD)
-
+- **Discort:** @tanyagoryanina._96715
 
 ## About Me
 
