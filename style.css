@@ -15,6 +15,7 @@ html {
 
 :root {
     --padding-container: 75px;
+    --padding-container-vertical: 30px;
 }
 
 a {
@@ -79,7 +80,7 @@ input {
 }
 
 .header_container {
-    padding-bottom: 30px;
+    padding-bottom: var(--padding-container-vertical);
 }
 
 .header_nav {
@@ -103,8 +104,18 @@ input {
 /* about */
 
 .about_container {
+    display: flex;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+.about_title {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.about_continer_img {
+    margin-right: 30px;
 }
 
 .about_img {
@@ -113,11 +124,29 @@ input {
     box-shadow: 0px 0px 5px 5px lightgrey;
 }
 
+.about_desc {
+    line-height: 24px;
+}
 
 
 
+/* contacts */
 
+.contacts {
+    background-color: #f4f4ff;
+}
 
+.contacts_container {
+    padding-top: var(--padding-container-vertical);
+    padding-bottom: var(--padding-container-vertical);
+}
 
+.contacts_list_item {
+    display: flex;
+}
 
+.contacts_item_title {
+    font-size: 16px;
+    margin-right: 20px;
+}
 
