@@ -1,3 +1,123 @@
-body {
+html {
     box-sizing: border-box;
 }
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+}
+
+:root {
+    --padding-container: 75px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+p,
+h1,
+h2,
+h3 {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    min-width: 320px;
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    background: var(--color-white);
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+button,
+input {
+    color: #000;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.container {
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 0 var(--padding-container);
+}
+
+
+
+
+/* header */
+
+.header {
+    background-color: beige;
+}
+
+.header_container {
+    padding-bottom: 30px;
+}
+
+.header_nav {
+    display: flex;
+    justify-content: center;
+}
+
+.header_list {
+    display: flex;
+    border: 1px solid #eeecec;
+    border-top-width: 0;
+    border-radius: 0 0 10px 10px;
+    padding: 10px;
+    background-color: #fbfaf8;
+}
+ 
+.header_list_item {
+    margin-right: 20px;
+}
+
+/* about */
+
+.about_container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.about_img {
+    max-width: 150px;
+    border-radius: 100px;
+    box-shadow: 0px 0px 5px 5px lightgrey;
+}
+
+
+
+
+
+
+
+
+
