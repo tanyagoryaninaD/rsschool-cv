@@ -42,13 +42,13 @@ function maxTriSum(numbers){
 ## Education
 
 - **University:** Belarusian Institute of Law, lawyer
-- **Course:** 
+- **Course:**
   + Skillbox: Profession Frontend developer from scratch to PRO *(studying now)*
-  + RS School: JavaScript / Front-end. Stage 0. 
+  + RS School: JavaScript / Front-end. Stage 0.
   + RS School: JavaScript / Front-end. Stage 1. *(studying now)*
 - **Self-study** *(always studying)*
 
-## Languages 
+## Languages
 
 - **Russian**
 - **English** A2 - Pre-Intermediate *(studying now)*
